@@ -1,0 +1,117 @@
+body{
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+}
+h2{
+  color: #696969 ;
+  font-size: 30px;
+  line-height: 1;
+}
+h3{
+  color: #66BFBF;
+  font-size: 30px;
+  line-height: 1;
+}
+p{
+  font-size: 17px;
+  color: #696969;
+  font-weight:500;
+}
+h1{
+  font-size: 60px;
+  line-height: 1;
+  color: #696969;
+  font-weight: bold;
+  margin: 60px auto 0 auto;
+}
+hr{
+  border-style: dotted #E6E6FA 6px;
+border-bottom: none;
+  width: 8%;
+  margin: 50px auto 50px auto;
+}
+li{
+  font-size: 17px;
+  color: #696969;
+  font-weight:500;
+}
+.bird{
+  height: 120px;
+  width: 120px;
+  position: absolute;
+  left: 150px;
+
+
+}
+.top{
+  background: #87CEEB;
+  position: relative;
+  padding-top: 100px;
+}
+.upper-cloud{
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  right: 300px;
+  top : 60px;
+}
+.mountain{
+  height: 400px;
+  width: 100%;
+  position: relative;
+  margin: 100px auto 0 auto;
+}
+.lower-cloud{
+  height: 80px;
+  width: 150px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+.intro{
+  width: 40%;
+  margin: auto;
+}
+.raghav{
+  margin-top: 50px;
+  border-radius: 50%;
+transform: rotate(90deg);
+  height: 200px;
+  width: 200px;
+}
+.skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill{
+  border-radius: 50% ;
+  width: 40%;
+  float: left;
+}
+.soft{
+  border-radius: 50%;
+  width: 40%;
+  float: right;
+}
+.qualification{
+  border-radius: 50%;
+  width: 40%;
+  float: left;
+  margin-right: 80px;
+}
+.bottom{
+  background-color: #66BFBF;
+  padding: 25px 0 30px;
+
+}
+.end{
+  position: relative;
+  top: 30px;
+}
+.link{
+  color: #696969;
+  padding-top: 30px;
+  line-height: 2;
+}
